@@ -1,0 +1,36 @@
+{
+  "phases": [
+    {
+      "id": 1,
+      "name": "Eng \u2192 Hindi Translation",
+      "status": "complete",
+      "epochs_done": 300,
+      "total_epochs": 300,
+      "final_bleu": 0.97082275501269,
+      "final_train_loss": 4.457749552481497e-05,
+      "final_val_loss": 4.9930291424971074e-05
+    },
+    {
+      "id": 2,
+      "name": "Performance Analysis",
+      "status": "complete",
+      "epochs_done": null,
+      "total_epochs": null,
+      "final_bleu": null,
+      "final_train_loss": null,
+      "final_val_loss": null
+    },
+    {
+      "id": 3,
+      "name": "Eng \u2192 Spanish (Bahdanau Attention)",
+      "status": "complete",
+      "epochs_done": 150,
+      "total_epochs": 150,
+      "final_bleu": 0.014400295717011626,
+      "final_train_loss": 1.9026078976375955,
+      "final_val_loss": 8.895359516143799,
+      "checkpoint": "phase3_checkpoint_epoch150.pt"
+    }
+  ],
+  "generated_at": "2026-03-28T08:48:27.021669+00:00"
+}
