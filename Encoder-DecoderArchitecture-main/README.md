@@ -10,6 +10,8 @@
 
 **LinguaVerse AI** is a full-stack neural language processing application built with a custom **Encoder-Decoder LSTM** architecture (with Attention) for sequence-to-sequence tasks. It ships with an interactive **Streamlit dashboard** featuring a premium glassmorphism dark-mode UI.
 
+<img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/d9722efb-dccc-46d1-96e5-b332aa9256a7" />
+
 ### ✨ Capabilities
 
 | Mode | Description | Backend |
