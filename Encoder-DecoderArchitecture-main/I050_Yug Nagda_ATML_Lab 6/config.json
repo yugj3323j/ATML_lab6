@@ -1,0 +1,14 @@
+{
+  "folders": {
+    "models": "models",
+    "input": "input",
+    "output": "outputs"
+  },
+  "files": {
+    "hindi_model": "eng_hin_translation_model.h5",
+    "hindi_tokenizer": "tokenizer_data.pkl",
+    "summarizer_model": "custom_summarizer_model.keras",
+    "summarizer_tokenizer": "summarizer_tokenizer_data.pkl"
+  },
+  "spanish_pretrained": "Helsinki-NLP/opus-mt-en-es"
+}

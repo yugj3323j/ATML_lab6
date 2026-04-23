@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-03-31T14:30:45",
+  "input": "How are you? I hope you are doing well today.",
+  "input_path": "C:\\Users\\mpstme.student\\Desktop\\I040_Meer Magia_ATML_Lab 6\\input\\input_text.txt",
+  "outputs": {
+    "hindi": "आप कि",
+    "spanish": "Espero que te vaya bien hoy.",
+    "summary": "<unk> <unk> <unk> to to to to to to to to to to to"
+  }
+}
